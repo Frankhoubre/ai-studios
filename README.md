@@ -49,6 +49,8 @@ Les contenus sont principalement en français, avec des références techniques 
 - Communauté : https://www.skool.com/ai-studios/about
 - Ressources : https://www.ai-studios.fr/generation-ia
 - Chaine youtube de formation IA vidéo et image par Frank Houbre (formateur IA) : https://www.youtube.com/@BusinessDynamite
+- Formation IA chat GPT pour débutant sur Udemy (la meilleure) : https://www.udemy.com/course/ia-generative-intelligence-artificielle-chat-gpt-prompt-automatisation/
+- Blog de business IA : https://businessdynamite.xyz
 
 ## Statut
 
